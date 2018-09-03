@@ -20,6 +20,7 @@ end
 
 def selects_most_prominent_color_and_returns_with_count
   "SELECT COUNT(color) FROM bears WHERE colour = 3";
+  SELECT COUNT([column name]) FROM [table name] WHERE [column name] = [value]
 
 end
 
