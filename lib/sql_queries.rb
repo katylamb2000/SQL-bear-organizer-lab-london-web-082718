@@ -19,7 +19,7 @@ def select_youngest_bear_and_returns_name_and_age
 end
 
 def selects_most_prominent_color_and_returns_with_count
-  "SELECT COUNT(color) FROM bears WHERE colour = 'dark brown'";
+  "SELECT COUNT(color) FROM bears WHERE colour = 3";
 
 end
 
